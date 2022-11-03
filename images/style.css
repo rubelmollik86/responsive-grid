@@ -1,0 +1,10 @@
+.image-width img{
+    width: 400px;
+    height: 250px;
+}
+.image-width p{
+    background: lightgray;
+}
+.image-width h3{
+    color:darksalmon
+}
